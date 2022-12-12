@@ -1,0 +1,4 @@
+--patch-module
+MarioGame=_
+--add-reads
+MarioGame=ALL-UNNAMED
